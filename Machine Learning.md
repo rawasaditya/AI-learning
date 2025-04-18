@@ -1,3 +1,16 @@
+---
+title: 'How Large Language Models Work: A Beginner`s Guide'
+pubDate: 2025-04-19
+description: "Understand how large language models like ChatGPT work, from predicting the next word to training with massive datasets."
+author: 
+  name: 'Aditya Rawas'
+  image: rawasaditya.jpeg
+image:
+  url: '_f2336ec3-0189-48a0-a824-7b173349d52b.jpg'
+  alt: 'Understanding how LLMs work'
+tags: ["Large Language Models", "How ChatGPT Works", "Supervised Learning", "Neural Networks", "AI Basics"]
+---
+
 ## What is Machine learning
 Machine learning is type of AI that learns from `A to B` or `Input to Output`
 
@@ -15,6 +28,9 @@ Supervise learning also lies at the heart of generative AI systems, like ChatGPT
 <video src="assets/next-word-predection.mp4" width="100%" height="240" controls></video>
 
 ### How large language model (LLMs) work
+
+
+# How Large Language Models Work: A Beginner's Guide
 
 In recent years, large language models (LLMs) like ChatGPT have taken the world by storm. From writing essays to generating code, these AI systems are becoming increasingly capable and useful. But how do they actually work? Let's break it down in simple terms.
 
@@ -99,3 +115,4 @@ Large language models work by learning to predict the next word in a sentence us
 These models are transforming industries, enabling new tools, and reshaping how we interact with technology. And at the heart of it all is a powerful idea: learning from data to understand and generate human language.
 
 Stay tuned for more deep dives into how AI is shaping our future!
+
